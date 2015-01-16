@@ -1,4 +1,4 @@
 # formulario_contato_angularjs
 Formulário de contato com Angular JS
 
-Simples formúlario de contato com Angular JS e  PHP.
+Simples formulário de contato com Angular JS e  PHP.
